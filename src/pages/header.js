@@ -36,7 +36,7 @@ const Header = () => {
   return (
     <div>
       <NavBar menuItems={headerArray}/>
-        <h1>Custom Header</h1>
+        <h1>Custom Header using Contentful</h1>
     </div>
   )
 }
